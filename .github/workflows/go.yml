@@ -24,7 +24,7 @@ jobs:
 
     - name: Install gocover-cobertura
       run: |
-        go get github.com/boumenot/gocover-covertura && go install github.com/boumenot/gocover-covertura
+        github.com/boumenot/gocover-cobertura && go install github.com/boumenot/gocover-cobertura
 
     - name: Set up gotestfmt
       uses: GoTestTools/gotestfmt-action@v2
