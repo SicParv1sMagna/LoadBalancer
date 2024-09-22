@@ -23,10 +23,10 @@ servers:
 
 Explanation:
 
-```env``` - environment of balancer
-```listenPort``` - launch port
-```healthCheckInterval``` - interval between server healthcheck
-```servers``` - list of servers for distributing load
+```env``` - environment of balancer.
+```listenPort``` - launch port.
+```healthCheckInterval``` - interval between server healthcheck.
+```servers``` - list of servers for distributing load.
 
 ### How to launch?
 
